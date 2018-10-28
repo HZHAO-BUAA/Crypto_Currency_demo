@@ -1,4 +1,6 @@
-### Programming Language & Dependencies: 
+### This is a group assignment in Université libre de Bruxelles
+
+### Programming Language & Dependencies:
 This program in compiled in python 3. The following dependecies are required to run this program:
 1. anaconda3 -> Download and install anaconda https://www.anaconda.com/download/#macos, if not already installed
 2. bottle -> use "pip install bottle" to install, if not already installed

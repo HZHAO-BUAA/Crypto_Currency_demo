@@ -1,0 +1,7 @@
+The of the log files is ordered in the following way:
+1) The first section describes which miners and wallets are connected to what relay.
+The numbers in the table are the index of which miners and wallets are connected to the associated relay. 
+2) The second section shows the predicted and measured balance of each wallet and miner. The predicted value is obtained form the transaction history below.
+3) Pending transactions are shown for every relay.
+4) The history of all transactions is logged in this section.
+

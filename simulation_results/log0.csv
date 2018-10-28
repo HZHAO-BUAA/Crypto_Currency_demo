@@ -1,0 +1,18 @@
+Relay setup
+,Relay 0,Relay 1,Relay 2
+Miners,0,1,2
+Wallets,0,1,2
+Balances
+,0,1,2
+CalcWalletBal,0,0,0
+PrintedWalletBal,0,0,0
+CalcMinerBal,0,0,0
+PrintedMinerBal,0,0,0
+
+Pending transactions
+R0
+R1
+R2
+
+Transaction history
+Transaction,Amount,Relay
